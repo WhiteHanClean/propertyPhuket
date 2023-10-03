@@ -3,14 +3,14 @@ import s from "./BuildCard.module.scss";
 import Image from "next/image";
 
 interface Props {
-  img: any;
-  alt: string;
-  name: string;
-  price: number;
-  rooms: number;
-  landArea: number;
-  builtUpArea: number;
-  location: string;
+  img?: any;
+  alt?: string;
+  name?: string;
+  price?: number;
+  rooms?: number;
+  landArea?: number;
+  builtUpArea?: number;
+  location?: string;
 }
 
 const BuildCard = ({
