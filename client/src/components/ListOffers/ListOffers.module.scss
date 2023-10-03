@@ -1,6 +1,6 @@
 .listOffer_label {
   color: #6c6c6a;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -16,7 +16,7 @@
 
 .listOffer_option {
   color: #000;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -25,7 +25,7 @@
 
 .listOffer_text {
   color: #000;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -85,7 +85,7 @@
 @media only screen and (max-width: 428px) {
   .listOffer_text {
     color: #000;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 12px;
     font-style: normal;
     font-weight: 500;

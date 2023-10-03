@@ -16,7 +16,7 @@
 
       h3 {
         color: var(--color-black, #000);
-        font-family: Inter;
+        font-family: 'Inter', sans-serif;
         font-size: 35px;
         font-style: normal;
         font-weight: 600;
@@ -27,7 +27,7 @@
     .section_item_1_description {
       width: 50%;
       color: var(--color-text, #6c6c6a);
-      font-family: Inter;
+      font-family: 'Inter', sans-serif;
       font-size: 14px;
       font-style: normal;
       font-weight: 500;
@@ -52,7 +52,7 @@
 
       .section_item_2_topic_title {
         color: var(--color-black, #000);
-        font-family: Inter;
+        font-family: 'Inter', sans-serif;
         font-size: 22px;
         font-style: normal;
         font-weight: 600;
@@ -62,7 +62,7 @@
       .section_item_2_topic_description {
         p {
           color: var(--color-text, #6c6c6a);
-          font-family: Inter;
+          font-family: 'Inter', sans-serif;
           font-size: 14px;
           font-style: normal;
           font-weight: 500;
